@@ -1,0 +1,50 @@
+.title {
+    color: white;
+    text-align: center;
+    background-image: url('https://file.namu.moe/file/87febbcb7e39d9885878457f2dcf1e8679847331854b423934fad76efd018b7b');
+    background-size: cover;
+    background-position: center;
+    width: 500px;
+    height: 200px;
+    border-radius: 10px;
+
+    /* display flex를 쓸 때엔 아래 네 줄이 항상 묶여 다닙니다. */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'East Sea Dokdo', cursive;
+}
+
+/* 자식선택자: mytitle 바로 아래 있는 h1 태그 */
+.title>h1 {
+    margin: 0 0 5px 0;
+}
+
+/* 자식선택자: mytitle 바로 아래 있는 h5 태그 */
+.title>h5 {
+    margin: 5px 0 0 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.rex {
+    width: 500px;
+    border-radius: 10px;
+    height: 200px;
+    color: white;
+    text-align: center;
+    background-image: url('https://cdn.clien.net/web/api/file/F01/6743971/5160cabe2cf7c5.jpg');
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.underline {
+    text-decoration: underline;
+}
+font-family: 'East Sea Dokdo', cursive;

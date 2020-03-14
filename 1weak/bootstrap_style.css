@@ -1,0 +1,59 @@
+
+
+.title > span {
+    font-size: 20px;
+}
+
+.form-group {
+width: 500px;
+border-radius: 10px;
+height: 75px;
+margin: 0 auto;
+
+}
+
+.form {
+margin: 0 auto;
+width: 500px;
+}
+
+  body {
+    background-color: black;
+    color: white;
+ }
+
+ .mybtn{
+
+    height: 60px;
+ }
+
+ .toss{
+
+    width: 500px;
+    margin: 0 auto 
+ }
+
+ .tiss{
+     width: 500px;
+     margin-top: 50px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 25px;
+ }
+
+ .title{
+
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    
+ }
+
+
+.jihoon{
+   margin-top: 100px;
+   margin-left: 500px;
+   margin-right: 500px;
+   margin-bottom: 100px;
+}
